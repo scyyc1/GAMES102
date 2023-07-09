@@ -13,6 +13,3 @@
 
 - 使用 Utopia 框架或其他语言（matlab，python 等）和框架
 - deadline：2020 年 10 月 31 日晚
-
-
-
